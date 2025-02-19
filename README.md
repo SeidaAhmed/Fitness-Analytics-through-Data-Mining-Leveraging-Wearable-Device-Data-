@@ -2,7 +2,7 @@
 # Research Questions
 
 1. **What patterns can be identified in user fitness metrics (Age, gender, weight, BMI) and Heart Rate Metrics (max BPM, avg BPM, resting BPM) and their impact on calorie burn and fat percentage?**
-   - This question explores how physiological factors (**Age**, **Gender**, **Weight**, **BMI**, **Heart Rate**) influence calorie expenditure and fat loss. The goal is to identify which variables are the strongest predictors of fat burn.
+   - This question explores how physiological factors (**Age**, **Gender**, **Weight**, **BMI**, **Heart Rate**) influence calorie expenditure and fat loss. The goal is to identify which variables are the strongest predictors of fat/calorie burn.
 
 2. **How do different workout types, session durations, and workout frequencies correlate with calorie burn, fat percentage changes, and BMI?**
    - This examines how various exercise routines affect fat loss and calorie expenditure over time. It aims to determine whether longer workout sessions, higher intensity levels (**max BPM**, **avg BPM**), or specific workout types (e.g., strength training vs. cardio) lead to greater fat reduction and calorie burn.
